@@ -11,9 +11,9 @@ Your project proposal and final project will be graded based solely on the corre
 Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
 
 - `ProjectProposal_group054SP22.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+- `DataCheckpoint_group054SP22.ipynb`
+- `EDACheckpoint_group054SP22.ipynb`
+- `FinalProject_group054SP22.ipynb`
 
 This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
 
